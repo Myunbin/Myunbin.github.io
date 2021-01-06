@@ -25,6 +25,8 @@ excerpt:
 * BOJ(Baekjoon Online Judge) : [akim9905](http://icpc.me/akim9905)
 * Click the card below to get more information about me in BOJ. ([solved.ac](http://solved.ac))
 
+[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=akim9905)](https://solved.ac/akim9905)
+
 #### 🏆 Honors and Rewards + Experiences
 * Academic Scholarship, Ajou University, Dec.2020
 * Dean's List (1st in deparment of Software), Ajou University, Dec.2020
@@ -32,11 +34,6 @@ excerpt:
 * 156th (8th in Ajou Univ.), ACM-ICPC, Oct.2019
 * 2670th (36th at South Korea), Google Hashcode, Feb.2020
 
-[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=akim9905)](https://solved.ac/akim9905)
-
-![myunbin's github stats](https://github-readme-stats.vercel.app/api?username=myunbin&bg_color=30,8bcdcd,583d72&title_color=fff&text_color=fff)
-
-<!-- * Codeforces : [MYUNBIN](https://codeforces.com/profile/MYUNBIN) [![](https://run.kaist.ac.kr/badges/codeforces/MYUNBIN.svg)](https://codeforces.com/profile/MYUNBIN) -->
 
 ### 📬 Contact Me
 * <akim9905@gmail.com>
