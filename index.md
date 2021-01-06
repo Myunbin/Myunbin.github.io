@@ -1,12 +1,12 @@
 ---
-title: 
+title: .
 feature_text: |
 #### myunbin_blog
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: 
 ---
-### Hyunbin Kim
 #### 👦 Profile
+* Hyunbin Kim
 * Yongin, South Korea
 * Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
 * **Currently on military service, Oct.2020 ~ Present**
