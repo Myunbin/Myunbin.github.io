@@ -7,7 +7,6 @@ excerpt:
 ---
 ## Hyunbin Kim
 ### 👦 Profile
-* Hyunbin Kim
 * Yongin, South Korea
 * Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
 * **Currently on military service, Oct.2020 ~ Present**
