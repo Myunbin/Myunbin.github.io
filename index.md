@@ -1,7 +1,5 @@
 ---
 title: myunbin_blog 
-feature_text: |
-excerpt: 
 ---
 
 ---
