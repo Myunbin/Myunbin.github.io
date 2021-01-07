@@ -10,13 +10,12 @@ title: myunbin_blog
 * Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
 * **Currently on military service, Oct.2020 ~ Present**
 
-#### 🎓 Education
-* Department of Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
-* GPA: 4.28 / 4.5, Major GPA: 4.38 / 4.5 (Mar.2019 ~ Dec.2020)
-
 #### 😁 Interested in & Studying
 * Algorithmic Problem Solving
 * Computer Architecture
+#### 🎓 Education
+* Department of Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
+* GPA: 4.28 / 4.5, Major GPA: 4.38 / 4.5 (Mar.2019 ~ Dec.2020)
 
 #### 👨‍💻 Activities
 * BOJ(Baekjoon Online Judge) : [akim9905](http://icpc.me/akim9905)
