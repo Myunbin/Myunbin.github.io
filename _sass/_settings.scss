@@ -16,7 +16,7 @@ $white: #ffffff !default;
 // Typography
 $bodytype: (
   font-family: '"Noto Sans KR", sans-serif',
-  font-size: 12px,
+  font-size: 9,
   regular: 400,
   bold: 700,
   italic: italic,
@@ -25,6 +25,7 @@ $bodytype: (
 
 $headingtype: (
   font-family: '"Merriweather", serif',
+  font-size: 12,
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -32,6 +33,7 @@ $headingtype: (
 
 $monospacetype: (
   font-family: "Menlo, monospace",
+  font-size: 9,
   regular: 400,
   cap-height: 0.68
 ) !default;
