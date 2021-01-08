@@ -124,8 +124,8 @@ navigation_header:
   url: https://github.com/myunbin
   
 navigation_footer:
-- title: Contact me
-  email: "akim9905@gmail.com"
+- title: Home
+  url : /
   
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/myunbin
