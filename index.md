@@ -13,6 +13,7 @@ title: myunbin_blog
 #### 😁 Interested in & Studying
 * Algorithmic Problem Solving
 * Computer Architecture
+
 #### 🎓 Education
 * Department of Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
 * GPA: 4.28 / 4.5, Major GPA: 4.38 / 4.5 (Mar.2019 ~ Dec.2020)
@@ -30,6 +31,5 @@ title: myunbin_blog
 * 156th (8th in Ajou Univ.), ACM-ICPC, Oct.2019
 * 2670th (36th at South Korea), Google Hashcode, Feb.2020
 
-
-### 📬 Contact Me
+#### 📬 Contact Me
 * <akim9905@gmail.com>
