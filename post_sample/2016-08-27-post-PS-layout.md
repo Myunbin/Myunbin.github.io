@@ -1,4 +1,3 @@
-
 ---
 title: "[BOJ백준 2618] 경찰차"
 categories:
