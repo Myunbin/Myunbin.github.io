@@ -34,11 +34,13 @@ $headingtype: (
 $monospacetype: (
   font-family: '"Source Code Pro", monospace',
   font-size: 10px,
-  regular: 400,
+  regular: 500,
+  bold: 600,
+  italic: italic,
   cap-height: 0.75
 ) !default;
 
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Sans+KR&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,500;0,600;1,500&display=swap');
