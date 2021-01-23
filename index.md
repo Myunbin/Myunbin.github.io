@@ -5,8 +5,9 @@ title: myunbin_blog
 ---
 
 #### 블로그 수정사항
+- https://moon9342.github.io/jekyll-sitemap 참고해서 구글에 검색하도록 만들것
 - ~~mathJax 수식입력하는거 세팅 갈아엎어야함. https://mkkim85.github.io/blog-apply-mathjax-to-jekyll-and-github-pages/~~
-- 코드 블럭에서 글씨체 이상함. 일단 글씨체 좀 바꾸고 코드 창만 darkmode로 바꾸는거 readme에 있었던거 같으니까 그거 참고해서 다시 고고.
+- ~~코드 블럭에서 글씨체 이상함. 일단 글씨체 좀 바꾸고~~코드 창만 darkmode로 바꾸는거 ~~readme에 있었던거 같으니까 그거 참고해서 다시 고고.~~
 
 #### 👦 Profile
 * Hyunbin Kim
