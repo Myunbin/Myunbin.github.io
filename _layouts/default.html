@@ -36,6 +36,10 @@
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
     {% include site-before-start.html %}
+    
+    {% if page.use_math %}
+    {% include mathjax_support.html %}
+    {% endif %}
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
