@@ -132,3 +132,10 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
  
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Email: true
+  
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
