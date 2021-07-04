@@ -4,8 +4,7 @@ title: myunbin_blog
 
 ---
 
-currently updating feedbacks at
-https://www.notion.so/workspacehyunbin/5150b8c11bf74aa6b56b0c852e6a2e7a
+currently updating feedbacks [here](https://www.notion.so/workspacehyunbin/5150b8c11bf74aa6b56b0c852e6a2e7a)
 
 #### 블로그 수정사항
 - https://moon9342.github.io/jekyll-sitemap 참고해서 구글에 검색하도록 만들것 
