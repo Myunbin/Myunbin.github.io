@@ -4,11 +4,11 @@ title: myunbin_blog
 
 ---
 
+currently updating feedbacks at
+https://www.notion.so/workspacehyunbin/5150b8c11bf74aa6b56b0c852e6a2e7a
+
 #### 블로그 수정사항
-- https://moon9342.github.io/jekyll-sitemap 참고해서 구글에 검색하도록 만들것
-- ~~mathJax 수식입력하는거 세팅 갈아엎어야함. https://mkkim85.github.io/blog-apply-mathjax-to-jekyll-and-github-pages/~~
-- ~~코드 블럭에서 글씨체 이상함. 일단 글씨체 좀 바꾸고~~코드 창만 darkmode로 바꾸는거 ~~readme에 있었던거 같으니까 그거 참고해서 다시 고고.~~
-- ~~코드는 github gist에서 쓰는 걸로. https://codersblock.com/blog/customizing-github-gists/ 참고해서 darkmode로~~
+- https://moon9342.github.io/jekyll-sitemap 참고해서 구글에 검색하도록 만들것 
 - https://colorscripter.com/ 줄간격 160% 으로 코드는 붙여넣으면 될듯
 
 
